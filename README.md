@@ -17,6 +17,12 @@ Features
 - One global variable value can be displayed e.g. for Flight Counter
 - Optimized for small screens and fast readability
 
+Installation
+- Dowload the ZIP file
+- Extract content from ZIP file
+- Copy only the last folder called 'flightDash3' with the main.lua and Readme.txt
+- Paste the folder into your SDCard/WIDGETS folder
+
 Model unplugged
 
 <img width="505" height="293" alt="image" src="https://github.com/user-attachments/assets/4a63d576-1931-4feb-aa53-1a83bb2c3713" />
