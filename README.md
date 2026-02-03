@@ -18,10 +18,11 @@ Features
 - Optimized for small screens and fast readability
 
 Installation
-- Dowload the ZIP file
-- Extract content from ZIP file
-- Copy only the last folder called 'flightDash3' with the main.lua and Readme.txt
-- Paste the folder into your SDCard/WIDGETS folder
+- Download the ZIP file
+- Extract the contents of the ZIP file
+- Locate the last folder named flightDash3 (it contains main.lua and Readme.txt)
+- Copy this flightDash3 folder only
+- Paste the folder into your SDCard/WIDGETS directory
 
 Model unplugged
 
